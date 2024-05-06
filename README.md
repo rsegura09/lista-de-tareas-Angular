@@ -1,5 +1,5 @@
 # ListaTareasApp
-
+🙌Esta es un página de lista de tareas hecha con Angular 17 😊
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
 
 ## Development server
